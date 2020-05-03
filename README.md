@@ -4,7 +4,7 @@
 Features:
 * Iterated for 20 generations (can be modified).
 * Binary Tournament for parent selection
-* 4 offsprings produced by crossover and cross mutation
+* 4 offsprings produced by crossover and swap mutation
 * Truncation used as the survivor strategy.
 
 ### Initial Population: ###
